@@ -1,8 +1,8 @@
 # Academic City RAG Assistant
 
 **Course:** CS4241 – Introduction to Artificial Intelligence  
-**Student:** [YOUR FULL NAME]  
-**Index Number:** [YOUR INDEX NUMBER]  
+**Student:** [Martin Dery]  
+**Index Number:** [10201100092]  
 **Institution:** Academic City University College, Ghana
 
 ---
